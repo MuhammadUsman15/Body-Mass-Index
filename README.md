@@ -3,7 +3,8 @@
 This is a project from Udemy Flutter Course by Angela Yu.
 Below are other projects from this course.
 
-# Weather App: 
+# Weather App:
+
 https://github.com/MuhammadUsman15/Weather-app
 
 # Group Chat: 
